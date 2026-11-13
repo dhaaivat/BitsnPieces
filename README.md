@@ -2,7 +2,7 @@
 
 **How much does the number format of an LLM matter?** A small, hands-on experiment that runs one model in different numeric precisions and observes what changes.
 
-*Author: Dhaaivat Patil*
+
 
 ---
 
