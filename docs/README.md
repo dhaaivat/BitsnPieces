@@ -17,7 +17,6 @@
 | Generative task | TruthfulQA generation, 50 questions, greedy decoding, max 160 new tokens, batch 8, seed 0 |
 | Judge | `gemini-3.8-flash`, one call per question, all 5 answers shuffled and unlabelled, 1/0 correctness |
 | Runs | **Run 1:** interactive session ([`../notebooks/bitspiecesnprecision.ipynb`](../notebooks/bitspiecesnprecision.ipynb)). **Run 2:** Kaggle "Save Version", a full re-run that produced the files in [results/](results/). The numbers below are from run 2 unless marked. |
-| Template notebook | [`../notebooks/precision_playground.ipynb`](../notebooks/precision_playground.ipynb) |
 | Process log | [LEARNINGS.md](LEARNINGS.md): everything learnt while preparing this |
 
 ### Files

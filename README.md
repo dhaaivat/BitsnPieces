@@ -81,8 +81,7 @@ The full write-up, with all tables, figures and per-question detail, is in **[do
 BitsnPieces/
 ├── README.md                          ← you are here
 ├── notebooks/
-│   ├── precision_playground.ipynb     clean notebook to run on Kaggle
-│   └── bitspiecesnprecision.ipynb     the executed Kaggle run, with outputs
+│   └── bitspiecesnprecision.ipynb     the Kaggle notebook, with outputs from the run
 ├── docs/
 │   ├── README.md                      full results report
 │   ├── LEARNINGS.md                   running log of lessons learnt
@@ -93,12 +92,12 @@ BitsnPieces/
 
 ## Reproducing it
 
-1. Upload [`notebooks/precision_playground.ipynb`](notebooks/precision_playground.ipynb) to Kaggle.
+1. Upload [`notebooks/bitspiecesnprecision.ipynb`](notebooks/bitspiecesnprecision.ipynb) to Kaggle.
 2. Set the accelerator to **GPU T4 x2** (only one GPU is used) and turn **Internet on**.
 3. Add two Kaggle secrets:
    - `HF_TOKEN` (Hugging Face)
    - `GEMINI_API_KEY` (Google AI Studio)
-4. Use **Save Version → Save & Run All**. The results land in the notebook's Output, under `results/`.
+4. Run all cells. The tables, plots and example answers appear in the notebook itself. This version doesn't write result files, so to keep them, add a cell that saves the tables to `/kaggle/working/` and use **Save Version**.
 
 A run takes well under an hour of GPU quota. The model, sample sizes, judge model and seed are set in the config cell.
 
