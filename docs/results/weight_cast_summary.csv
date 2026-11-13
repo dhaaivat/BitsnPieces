@@ -1,0 +1,5 @@
+,fp16,bf16
+weighted mean rel. error,4.901087430041096e-06,0.0
+overflow (inf),0.0,0.0
+flushed to zero,2700.0,0.0
+subnormal,2975168.0,0.0

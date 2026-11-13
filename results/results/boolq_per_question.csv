@@ -1,0 +1,201 @@
+question,label,p_yes[fp32],p_yes[fp16],p_yes[bf16],p_yes[fp16-weights/fp32-math],p_yes[bf16-weights/fp32-math]
+will there be a season 2 of penny on mars,1,0.59594625,0.5953605,0.6036112,0.5959623,0.59594625
+is data visualization a part of data science,1,0.99929464,0.9992889,0.9991209,0.99929464,0.99929464
+is the drinking age different in every state,0,0.8931601,0.89266557,0.89032876,0.8931586,0.8931601
+does the mlb all star game go into extra innings,1,0.8334493,0.8309538,0.84758866,0.833448,0.8334493
+can you marry more than one person in the us,0,0.024037534,0.023708353,0.024633583,0.024037221,0.024037534
+is banaue rice terraces 7 wonders of the world,1,0.99205995,0.992019,0.99267733,0.99205947,0.99205995
+can there be an error in a perfect game,1,0.06614796,0.065398335,0.07586055,0.06614674,0.06614796
+do you get paid when on administrative leave,1,0.99862313,0.9986393,0.99876285,0.99862313,0.99862313
+will there be a new how to train your dragon series,0,0.9400553,0.9411718,0.9441887,0.9400553,0.9400553
+is the enchanted forest in oregon still open,1,0.97732544,0.97762144,0.97787607,0.97732496,0.97732544
+is revenge of the mummy a roller coaster,1,0.999529,0.9995116,0.99951804,0.999529,0.999529
+are elephants at the top of the food chain,0,0.03283386,0.03449644,0.03481867,0.032833785,0.03283386
+is there any nuclear power plants in canada,1,0.9998981,0.999894,0.99989414,0.9998981,0.9998981
+can i have a beard in the military,0,0.005306449,0.005365927,0.0055531077,0.005306361,0.005306449
+are there any major water concerns for australia,1,0.99717283,0.9971324,0.9975432,0.99717295,0.99717283
+was call of duty ww2 based on a true story,0,0.00089291885,0.00094547804,0.0006839523,0.0008929303,0.00089291885
+is there a tiebreaker in final set at wimbledon,0,0.6724809,0.67567086,0.6589342,0.6724792,0.6724809
+does penne alla vodka have dairy in it,1,0.8899039,0.88779604,0.9044816,0.8899047,0.8899039
+is there a new peanuts movie coming out,0,0.0039562583,0.003883473,0.004858406,0.003956277,0.0039562583
+is let there be light a true story,0,0.0013920405,0.0013944289,0.0011554952,0.0013920194,0.0013920405
+is a way out a single player game,0,0.0002846099,0.000287727,0.00030556472,0.00028462103,0.0002846099
+is an administrative law judge a real judge,1,0.9979241,0.9979074,0.9981142,0.9979241,0.9979241
+is there a free period in high school,1,0.9996866,0.999688,0.99958855,0.9996866,0.9996866
+can a dog be mixed with 3 breeds,1,0.88135386,0.88100666,0.88591653,0.8813537,0.88135386
+is comcast and time warner the same company,0,0.018471967,0.018573025,0.018774824,0.01847151,0.018471967
+is the voice of alice the same as wendy,1,0.24071854,0.23807493,0.23724212,0.24071932,0.24071854
+is there a bridge between morocco and spain,0,0.04636683,0.046447776,0.042674247,0.046366863,0.04636683
+is copa airlines part of the star alliance,1,0.999824,0.9998211,0.9998281,0.999824,0.999824
+is kabaneri of the iron fortress on crunchyroll,1,0.9682537,0.9678169,0.9712832,0.9682533,0.9682537
+is a web server an example of a host,1,0.97476846,0.9746786,0.9699486,0.97476804,0.97476846
+will there be a 800 words season 4,1,0.003046663,0.003011607,0.0040123104,0.0030466544,0.003046663
+does uncle ben ever come back to life,0,0.7782473,0.77866113,0.797022,0.7782408,0.7782473
+are there going to be any more i am number four movies,0,0.007936345,0.00796707,0.007684149,0.0079363715,0.007936345
+is great america the same as six flags,0,0.68216634,0.6808321,0.66070354,0.6821681,0.68216634
+can you go to nba out of high school,1,0.9974746,0.9974183,0.9974402,0.9974746,0.9974746
+is johnson and wales a for profit school,0,0.06417049,0.06325761,0.05371579,0.06417083,0.06417049
+is there an interstate that goes coast to coast,1,0.9724635,0.9725214,0.9719671,0.9724637,0.9724635
+can a boat sail faster than the wind,1,0.9974469,0.99741215,0.9978046,0.9974469,0.9974469
+is an undergraduate degree the same as a bachelor's degree,1,0.99808085,0.99797565,0.99841475,0.99808085,0.99808085
+can i bring my dog to pet supplies plus,1,0.9990964,0.9991179,0.9991209,0.9990964,0.9990964
+is cabin in the woods a horror movie,1,0.9993788,0.99938166,0.9991001,0.9993788,0.9993788
+is fromage frais and quark the same thing,1,0.4561275,0.4541336,0.43585235,0.45612732,0.4561275
+does the united states have a fixed exchange rate,0,0.0052024587,0.0052610394,0.0042816,0.0052025076,0.0052024587
+is there going to be a 3rd series of 800 words,1,0.2851723,0.28913274,0.19588755,0.28517714,0.2851723
+does the prime minister live at number 10 downing street,1,0.9957547,0.99561054,0.99608386,0.99575484,0.9957547
+is breakfast at tiffany's black and white,0,0.17971861,0.1824574,0.17890476,0.17972109,0.17971861
+does the georgia aquarium still have whale sharks,1,0.9477971,0.94582695,0.94207036,0.9477955,0.9477971
+is eastern kentucky university a division 1 school,1,0.59122175,0.5867896,0.5408675,0.5912367,0.59122175
+is an access course classed as higher education,0,0.9754308,0.97435206,0.97891873,0.97543067,0.9754308
+is a red panda related to a panda,0,0.67805064,0.6692079,0.66418487,0.6780508,0.67805064
+is isle of man in the channel islands,0,0.6749833,0.6720004,0.6513579,0.6749929,0.6749833
+is a german shepard the same as an alsatian,1,0.21513611,0.20911892,0.20141733,0.21513501,0.21513611
+is 1 a prime factor of every number,0,0.0012629848,0.0012753857,0.0011084345,0.0012629926,0.0012629848
+are all xbox games compatible with xbox one,0,0.05234065,0.051999625,0.05690629,0.0523413,0.05234065
+is the supreme court the highest court in the land,1,0.9555701,0.95617515,0.9558407,0.9555697,0.9555701
+can you carry a gun in your car in ohio,1,0.95456713,0.9547741,0.949257,0.9545677,0.95456713
+have the san jose sharks won a stanley cup,0,0.15812917,0.15647295,0.15243159,0.15812252,0.15812917
+does a deed of trust have to have a trustee,1,0.79537433,0.79332215,0.80181557,0.79537797,0.79537433
+is the tv series star crossed based on a book,0,0.6320438,0.63694936,0.62935007,0.6320431,0.6320438
+does roman-dutch law still apply to south african law,1,0.6996044,0.69835293,0.6716875,0.6996097,0.6996044
+do they celebrate father's day in the netherlands,1,0.9980605,0.9980179,0.99756974,0.9980604,0.9980605
+do monster energy drinks have alcohol in them,0,0.00011258096,0.000114117494,0.000100620695,0.00011258214,0.00011258096
+is fargo tv show based on a true story,0,0.00011417006,0.000112462396,9.883583e-05,0.0001141705,0.00011417006
+does the handsome collection come with all dlc,1,0.9639183,0.9638365,0.9667282,0.96391886,0.9639183
+is the cortex of the cerebellum gray matter,1,0.99462456,0.9947625,0.9950472,0.9946247,0.99462456
+is gdp per capita the same as average income,0,0.4146543,0.4103835,0.3828846,0.41465977,0.4146543
+is a soccer stadium bigger than a football stadium,1,0.47290167,0.47544926,0.50000864,0.47289985,0.47290167
+is the chernobyl nuclear power plant still operating,0,0.00031303306,0.00031247368,0.00027472407,0.00031304022,0.00031303306
+does it always rain when there's lightning,0,0.0015510006,0.0015831279,0.0013724276,0.0015509578,0.0015510006
+is multithreading useful even on a single processor,1,0.99554366,0.9954502,0.99580514,0.99554366,0.99554366
+is there such thing as chronic lyme disease,0,0.79418445,0.79158753,0.80620503,0.7941817,0.79418445
+is it legal to drink in public edinburgh,1,0.6001076,0.60359627,0.63451546,0.6001023,0.6001076
+is the routing number the same as transit number,0,0.5885058,0.58396333,0.5696932,0.5885091,0.5885058
+can a baseball player catch a ball in the stands,0,0.074825525,0.07425847,0.073496394,0.074825756,0.074825525
+is there a second season of this is us,1,0.99988675,0.99988866,0.9998801,0.99988675,0.99988675
+is there a difference in power between the power input and power output,1,0.69440615,0.688455,0.69933146,0.69440764,0.69440615
+is commercial law and corporate law the same,0,0.12485732,0.123064734,0.12579712,0.124858335,0.12485732
+are there any montgomery ward stores still open,0,0.02438356,0.024147753,0.021536294,0.02438322,0.02438356
+was there a draft in the revolutionary war,1,0.3733172,0.37293017,0.33811742,0.3733164,0.3733172
+is there a sequel to the movie 300,1,0.9895588,0.9893339,0.99091107,0.98955846,0.9895588
+can a company be listed in different countries,1,0.9977496,0.9977264,0.9974963,0.99774975,0.9977496
+does rachel die in hawaii 5-0,0,0.037298273,0.037602775,0.038391713,0.03729837,0.037298273
+was good times a spin off of the jeffersons,0,0.0031278161,0.0031580566,0.0028771947,0.0031277703,0.0031278161
+is it normal for my second toe to be longer,0,0.2648443,0.26703462,0.26898512,0.2648406,0.2648443
+can you feel pain from a broken heart,1,0.99884135,0.99882454,0.9987237,0.99884146,0.99884135
+is there a sequel to wrinkle in time,1,0.9995158,0.99949515,0.9995245,0.9995158,0.9995158
+can an emt-basic start an iv,0,0.2781688,0.28049198,0.27369013,0.2781677,0.2781688
+does the girl die in a walk to remember,1,0.08734824,0.08882222,0.08999854,0.08734831,0.08734824
+are there dolphins in the north atlantic ocean,1,0.999941,0.9999393,0.99994946,0.999941,0.999941
+is the cabinet part of the executive branch,1,0.99959725,0.9995995,0.9995808,0.99959725,0.99959725
+does each state have their own national guard,1,0.99464464,0.9947424,0.9951574,0.99464464,0.99464464
+can you die from consuming too much water,1,0.9964805,0.9963905,0.99621177,0.9964804,0.9964805
+was the battle of the alamo part of the mexican american war,0,0.00037295415,0.00036689217,0.00030510215,0.00037296448,0.00037295415
+does a cow have to be pregnant to lactate,0,0.79994357,0.8026181,0.81972355,0.79994255,0.79994357
+is the tv show riverdale based on the archie comics,1,0.9999069,0.99990594,0.99989176,0.9999069,0.9999069
+do dairy cows have to have calves to produce milk,1,0.9588492,0.95880514,0.9616366,0.95884895,0.9588492
+is breaking and entering into a car a felony,1,0.8621042,0.85931295,0.85042524,0.86210346,0.8621042
+is universal music group part of universal studios,0,0.3565762,0.36373743,0.3619176,0.35657158,0.3565762
+are ground beef and minced beef the same,1,0.961327,0.9618846,0.96689904,0.961328,0.961327
+have we reached the bottom of the mariana trench,1,0.7722765,0.7765891,0.7746605,0.77227765,0.7722765
+does robert's rules of order allow proxy voting,0,0.417197,0.42324698,0.41279936,0.4171987,0.417197
+is petroleum an example of a fossil fuel,1,0.999877,0.99987423,0.9999064,0.999877,0.999877
+is the washington post a reputable news source,1,0.9960747,0.99612087,0.995937,0.9960747,0.9960747
+is it illegal to smoke weed in ct,1,0.8781106,0.8796594,0.89346623,0.8781109,0.8781106
+is west virginia and virginia the same state,0,0.012486359,0.0123249395,0.014587067,0.012486024,0.012486359
+is there a book after the girl in the spider's web,1,0.9985257,0.99851304,0.99842024,0.9985257,0.9985257
+do root hairs occur along the entire length of root,0,0.050188877,0.05043329,0.0474272,0.050189346,0.050188877
+can you be left footed and right handed,1,0.7964093,0.79334086,0.7970225,0.79641145,0.7964093
+has india won a gold medal in olympics,1,0.96971524,0.9700796,0.96375173,0.9697151,0.96971524
+is there a republican majority in the senate,1,0.9735832,0.97265166,0.9726107,0.9735831,0.9735832
+do church of england make the sign of the cross,1,0.40379345,0.4026032,0.3885759,0.4037914,0.40379345
+is soft tissue damage the same as a sprain,0,0.5468125,0.5455003,0.5353692,0.5468043,0.5468125
+are there any p 38 lightnings still flying,1,0.86869556,0.8693903,0.85825366,0.8686996,0.86869556
+is us marshals a sequel to the fugitive,0,0.99592775,0.99588335,0.9957419,0.99592775,0.99592775
+did lonnie die on days of our lives,0,0.009138763,0.009289527,0.009021384,0.009139125,0.009138763
+did the first iphone have a front camera,0,0.9905798,0.99050117,0.9909769,0.9905798,0.9905798
+is there a continuation to avengers infinity war,1,0.8581767,0.8556376,0.8272934,0.85817784,0.8581767
+do they have penalties in world cup final,1,0.941756,0.9404521,0.94539213,0.9417568,0.941756
+can you have a surrogate mother in australia,1,0.99642205,0.99640346,0.9973226,0.9964222,0.99642205
+will the us ever get high speed rail,1,0.985927,0.98545504,0.9826805,0.9859266,0.985927
+is mahi mahi the same as ahi tuna,0,0.19951141,0.20712095,0.20141582,0.19951528,0.19951141
+do blaine and kurt get back together in season 6,1,0.31277815,0.3202461,0.2909586,0.31277606,0.31277815
+is the dominican republic a part of mexico,0,0.00015131944,0.0001548828,0.00016226551,0.00015131915,0.00015131944
+can you drive a us car into canada,1,0.9476048,0.949353,0.94027835,0.94760436,0.9476048
+is there a difference between 2 cycle and 2 stroke,0,0.9946872,0.9944401,0.9952773,0.9946872,0.9946872
+does the girl die in brain on fire,0,0.0049649766,0.005189353,0.005295732,0.0049649538,0.0049649766
+did top gear build a bridge over the river kwai,0,0.68260264,0.68158865,0.6821101,0.6825985,0.68260264
+is there such a thing as a turkey vulture,1,0.9998324,0.9998235,0.9998242,0.9998324,0.9998324
+does a point guard have to be tall,0,0.17940836,0.18351077,0.18246025,0.17941074,0.17940836
+has indian ever made it to the world cup,1,0.98432183,0.98401064,0.9865594,0.98432213,0.98432183
+will there be season 2 of cobra kia,1,0.9990107,0.99900997,0.9989944,0.9990107,0.9990107
+is astro turf the same as artificial grass,1,0.8860556,0.8875447,0.88678944,0.88605696,0.8860556
+is aloe barbadensis the same as aloe vera,1,0.90408015,0.90368503,0.91090965,0.90408003,0.90408015
+is your body temperature higher in the evening,1,0.9631383,0.96319246,0.9649929,0.9631385,0.9631383
+is it law to wear a seatbelt uk,1,0.9675052,0.9670438,0.96787417,0.9675049,0.9675052
+is there a sequel to the journey to the mysterious island,0,0.005303854,0.005488262,0.0060013994,0.0053040124,0.005303854
+will there be a 6 pirates of the caribbean,1,0.99059427,0.99051887,0.9906578,0.9905945,0.99059427
+is the postmaster general appointed by the president,0,0.11300267,0.114826865,0.124082714,0.113002114,0.11300267
+does air force one fly with fighter escort,0,0.20611922,0.20739843,0.21675214,0.20612031,0.20611922
+does it cost money to join the playstation network,0,0.0012788251,0.0012894168,0.0018074164,0.001278847,0.0012788251
+has anyone ever escaped from alcatraz and lived,0,0.04607932,0.047298893,0.04145833,0.046079166,0.04607932
+has the tampa bay lightning ever won a stanley cup,1,0.9998989,0.9998994,0.9998809,0.9998989,0.9998989
+is there a season 9 of pretty little liars,0,0.034502972,0.036077276,0.031410407,0.034502067,0.034502972
+does north and south korea speak the same,0,0.008491965,0.008832741,0.008992973,0.008492274,0.008491965
+does april get married in grey's anatomy,1,0.9926301,0.9924291,0.99371225,0.99263,0.9926301
+is there overlap between the different organ systems in a vertebrate,1,0.52265996,0.5204872,0.516026,0.52265644,0.52265996
+is there a bone in your ear lobe,0,0.000728946,0.00072137406,0.00063170027,0.0007289366,0.000728946
+can i put a regular bulb in a 3 way lamp,0,0.32723457,0.32460043,0.36885247,0.32722956,0.32723457
+are they going to make another jurassic world movie,1,0.9404675,0.9403786,0.9355028,0.94046634,0.9404675
+is the dark knight a sequel to batman begins,1,0.9993247,0.9993218,0.9993297,0.9993247,0.9993247
+is there such a thing as corinthian leather,0,0.9396391,0.9399978,0.94333,0.93963814,0.9396391
+is there going to be a third season of fauda,1,0.9934082,0.9932621,0.99313676,0.9934082,0.9934082
+is round of 16 world cup single elimination,1,0.99399453,0.9938693,0.99373335,0.9939948,0.99399453
+does salt go in the shaker with less holes,1,0.94930965,0.9487375,0.9481219,0.94931114,0.94930965
+has south africa qualified for the world cup,1,0.94471264,0.94546044,0.936527,0.9447135,0.94471264
+is the isle of man part of the european economic area,0,0.007146781,0.0069647455,0.008835203,0.0071466686,0.007146781
+is google drive the same as google docs,0,0.8581702,0.8563893,0.86915284,0.8581667,0.8581702
+is there a floating mass of garbage in the ocean,1,0.99951756,0.9995029,0.9994611,0.99951756,0.99951756
+was chariots of fire based on a true story,1,0.9995208,0.99952555,0.9994336,0.9995208,0.9995208
+is there going to be a 14th season of grey's anatomy,1,0.89122206,0.8900232,0.87827724,0.89122355,0.89122206
+can a goalie get a penalty in hockey,1,0.9847474,0.98465943,0.98471063,0.9847477,0.9847474
+is there a difference between an ounce and a fluid ounce,1,0.9965402,0.9965037,0.995761,0.9965402,0.9965402
+is there a way one can grow more crops from the same land,1,0.9922829,0.9923769,0.99236405,0.99228317,0.9922829
+can you run on a caught foul ball,1,0.0553669,0.054649904,0.048764918,0.055366952,0.0553669
+was the 13th amendment after the civil war,1,0.9971209,0.99710983,0.99712986,0.9971209,0.9971209
+can i buy liquor on sunday in wv,1,0.007001043,0.0070124925,0.007082643,0.007001086,0.007001043
+does christina yang die in season 10 episode 24,0,0.010454164,0.010523152,0.009845124,0.0104544405,0.010454164
+is selection sort more efficient than insertion sort,0,0.17639808,0.18104059,0.17913595,0.17639983,0.17639808
+did indian football team qualified for fifa 2018,0,0.0018825749,0.0018963044,0.0017237671,0.0018825749,0.0018825749
+is fantastic beasts and where to find them a prequel,1,0.9983474,0.9983026,0.99864644,0.9983474,0.9983474
+is the us womens soccer team in the world cup,1,0.34191662,0.3389052,0.32415524,0.34191188,0.34191662
+will there be a total bellas season 4,1,0.9999248,0.9999236,0.99992335,0.9999248,0.9999248
+is an associates degree considered a college degree,1,0.9901528,0.9902496,0.9910495,0.99015266,0.9901528
+are rice noodles and glass noodles the same,0,0.0016265002,0.0015978591,0.0017007369,0.0016264996,0.0016265002
+could you buy your council house before 1979,0,0.002690542,0.0026830658,0.002657253,0.0026905714,0.002690542
+is english the most commonly spoken language in the world,1,0.9834372,0.9834494,0.9825435,0.98343706,0.9834372
+is ford escape a 4 wheel drive vehicle,1,0.9820141,0.98168623,0.9809003,0.9820141,0.9820141
+is in n out only located in california,0,0.4960427,0.5023707,0.49438,0.49604365,0.4960427
+do blue and pink cotton candy taste the same,0,0.13123722,0.13270114,0.124305554,0.13123663,0.13123722
+can you use xbox 360 games in the xbox one,1,0.9997398,0.99974126,0.9997255,0.9997398,0.9997398
+is i-94 a toll road in michigan,0,0.95384026,0.95499355,0.9478981,0.9538399,0.95384026
+does the away goal count in the playoffs,0,0.060365763,0.060621,0.052613568,0.060365602,0.060365763
+has cleveland ever beat golden state in the finals,1,0.8004256,0.80561364,0.7850353,0.800429,0.8004256
+is the united states postal service owned by the government,1,0.8585248,0.85964423,0.87488234,0.858528,0.8585248
+did australia fight in the battle of the somme,1,0.3511362,0.3497307,0.38317016,0.3511427,0.3511362
+is an employment authorization card a green card,0,0.0073300996,0.007347193,0.008870943,0.007329898,0.0073300996
+can i use a net10 card on a tracfone,0,0.012692317,0.012561038,0.015711619,0.012692353,0.012692317
+is the show bloodline based on a true story,0,0.00040100195,0.00038910614,0.0004077144,0.00040100617,0.00040100195
+is there a chip in the apple lightning cable,1,0.5943121,0.5918782,0.5677232,0.5943189,0.5943121
+is the bald eagle the biggest bird in the world,0,0.031494476,0.031443167,0.028340802,0.031494964,0.031494476
+do you have to have a license to own a tv in england,0,0.90862817,0.90774333,0.88988674,0.9086263,0.90862817
+is a rugby field bigger than a football field,1,0.56495786,0.5650138,0.5776784,0.56495774,0.56495786
+do female ferrets die if they don't mate,1,0.974934,0.9745106,0.97230107,0.9749337,0.974934
+does cheddar cheese have to be made in cheddar,0,0.021100258,0.02202678,0.02339615,0.02110017,0.021100258
+is st augustine florida the oldest city in america,1,0.9101459,0.90940684,0.9097628,0.9101466,0.9101459
+is microsoft visio and visual studio the same,0,0.09580845,0.10067311,0.11089261,0.095810056,0.09580845
+will there be a new spartacus season 5,0,0.0007758512,0.00079190463,0.00072888035,0.00077585556,0.0007758512
+does the dulles toll road take credit cards,1,0.95025176,0.9504491,0.9423351,0.9502508,0.95025176
+is canada still part of the british monarchy,1,0.75834477,0.7566671,0.78646463,0.75834626,0.75834477
+are there warrant officers in the air force,0,0.1672529,0.17105253,0.15987343,0.16725004,0.1672529

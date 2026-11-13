@@ -1,0 +1,12 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "native_dtype": "torch.bfloat16",
+  "judge_model": "gemini-3.8-flash",
+  "n_boolq": 200,
+  "n_gen": 50,
+  "max_new_tokens": 160,
+  "batch": 8,
+  "seed": 0,
+  "gpu": "Tesla T4",
+  "torch": "2.11.0+cu130"
+}
