@@ -3,3 +3,4 @@
 __pycache__/
 *.zip
 .env
+notebooks/precision_playground.ipynb
