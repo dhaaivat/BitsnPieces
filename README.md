@@ -97,7 +97,7 @@ BitsnPieces/
 3. Add two Kaggle secrets:
    - `HF_TOKEN` (Hugging Face)
    - `GEMINI_API_KEY` (Google AI Studio)
-4. Run all cells. The tables, plots and example answers appear in the notebook itself. This version doesn't write result files, so to keep them, add a cell that saves the tables to `/kaggle/working/` and use **Save Version**.
+4. Use **Save Version → Save & Run All**. The tables and plots are saved to the notebook's Output under `results/`: the same files as in [`results/`](results/) and [`docs/results/`](docs/results/).
 
 A run takes well under an hour of GPU quota. The model, sample sizes, judge model and seed are set in the config cell.
 
